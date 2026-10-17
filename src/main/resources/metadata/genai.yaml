@@ -1,0 +1,8 @@
+group: io.kestra.plugin.scaleway.genai
+name: "genai"
+title: "Generative APIs"
+description: "Tasks for Scaleway Generative APIs (LLM inference, text embeddings, and document reranking)"
+body: ""
+videos: []
+createdBy: "Kestra Core Team"
+managedBy: "Kestra Core Team"
